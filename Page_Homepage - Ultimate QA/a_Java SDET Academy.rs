@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Java SDET Academy</name>
+   <tag></tag>
+   <elementGuidId>1555e3ed-88f5-45fe-9e42-b9767453c5ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-217931 > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-217931']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4d88234a-6809-4c25-9613-d74e07552071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ultimateqa.ck.page/academy-coming-soon</value>
+      <webElementGuid>aa12fba4-e822-4eab-a211-547c828c3180</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Java SDET Academy</value>
+      <webElementGuid>02a5d0d3-be46-4b68-8cfc-fb302a94df90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-main-menu&quot;)/li[@id=&quot;menu-item-217931&quot;]/a[1]</value>
+      <webElementGuid>f1d7ed4b-4e5f-42e2-923d-ea9d41077a7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-217931']/a</value>
+      <webElementGuid>910aa063-6d7d-4811-990e-517014688c80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Java SDET Academy')]</value>
+      <webElementGuid>c7ba35c7-cdd6-44e9-b24f-74cc5d6d8870</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://ultimateqa.ck.page/academy-coming-soon')]</value>
+      <webElementGuid>0f1aae15-a309-492d-b4e0-70e7fbe6603e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>36c3d2a1-99b4-45ff-80ae-b924cb59e69a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ultimateqa.ck.page/academy-coming-soon' and (text() = 'Java SDET Academy' or . = 'Java SDET Academy')]</value>
+      <webElementGuid>1b0a2e37-11e0-4618-8b66-d72305521d2e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

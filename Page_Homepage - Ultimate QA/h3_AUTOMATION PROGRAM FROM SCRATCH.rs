@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_AUTOMATION PROGRAM FROM SCRATCH</name>
+   <tag></tag>
+   <elementGuidId>c59f33fc-938e-467b-bbcb-71f0af8fe769</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.et_pb_module.et_pb_heading.et_pb_heading_12.et_pb_bg_layout_ > div.et_pb_heading_container > h3.et_pb_module_heading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-217913']/div/div/div/div[7]/div[4]/div[2]/div/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>b31f27b7-1c34-4833-b26b-cdb82964f32d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>et_pb_module_heading</value>
+      <webElementGuid>af5e2a6d-91c3-4827-937f-3348ca693fad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AUTOMATION PROGRAM FROM SCRATCH</value>
+      <webElementGuid>8bbf485f-0c07-4290-8ed5-d9b6587106f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-217913&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;et-l et-l--post&quot;]/div[@class=&quot;et_builder_inner_content et_pb_gutters2&quot;]/div[@class=&quot;et_pb_section et_pb_section_6 et_section_regular&quot;]/div[@class=&quot;et_pb_row et_pb_row_13 et_pb_gutters1&quot;]/div[@class=&quot;et_pb_column et_pb_column_1_2 et_pb_column_27  et_pb_css_mix_blend_mode_passthrough et-last-child&quot;]/div[@class=&quot;et_pb_module et_pb_heading et_pb_heading_12 et_pb_bg_layout_&quot;]/div[@class=&quot;et_pb_heading_container&quot;]/h3[@class=&quot;et_pb_module_heading&quot;]</value>
+      <webElementGuid>ea600b05-054e-4c22-b0ef-8ed47755c9cc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-217913']/div/div/div/div[7]/div[4]/div[2]/div/div/h3</value>
+      <webElementGuid>24e536b0-6963-4c29-8a4c-f1668808146d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div/h3</value>
+      <webElementGuid>2b6fd356-7a46-43ed-b6e8-6debe76b26e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'AUTOMATION PROGRAM FROM SCRATCH' or . = 'AUTOMATION PROGRAM FROM SCRATCH')]</value>
+      <webElementGuid>7120702d-ae61-4abf-9a50-52ea127e9dba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

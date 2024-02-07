@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Real-world outcomes</name>
+   <tag></tag>
+   <elementGuidId>f0a03988-a157-4651-a1fe-dd7fd70e0e63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.et_pb_module.et_pb_heading.et_pb_heading_9.et_pb_bg_layout_ > div.et_pb_heading_container > h2.et_pb_module_heading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-217913']/div/div/div/div[7]/div/div/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>ef27aa52-edb9-41af-a367-57671d4f2f00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>et_pb_module_heading</value>
+      <webElementGuid>5822e3f3-8818-4b4a-8a71-89cf0ea53252</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Real-world outcomes</value>
+      <webElementGuid>a27dd4ce-2e82-4140-8d4f-d55659ea698b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-217913&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;et-l et-l--post&quot;]/div[@class=&quot;et_builder_inner_content et_pb_gutters2&quot;]/div[@class=&quot;et_pb_section et_pb_section_6 et_section_regular&quot;]/div[@class=&quot;et_pb_row et_pb_row_10&quot;]/div[@class=&quot;et_pb_column et_pb_column_4_4 et_pb_column_21  et_pb_css_mix_blend_mode_passthrough et-last-child&quot;]/div[@class=&quot;et_pb_module et_pb_heading et_pb_heading_9 et_pb_bg_layout_&quot;]/div[@class=&quot;et_pb_heading_container&quot;]/h2[@class=&quot;et_pb_module_heading&quot;]</value>
+      <webElementGuid>f5542799-be7c-4eb3-8851-587c624d1847</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-217913']/div/div/div/div[7]/div/div/div/div/h2</value>
+      <webElementGuid>694a1b81-3782-4896-8ac4-e2c8f8565c0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/div/h2</value>
+      <webElementGuid>65994960-9eb2-4337-8908-a49fb5a3d748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Real-world outcomes' or . = 'Real-world outcomes')]</value>
+      <webElementGuid>e0d9c798-a2a1-47c7-a706-9333651bee3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

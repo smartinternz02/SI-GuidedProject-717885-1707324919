@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_See Full Story</name>
+   <tag></tag>
+   <elementGuidId>614efc6c-7481-463d-a713-2100ed84c334</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.et_pb_button.et_pb_button_3.show-full-story.et_pb_bg_layout_light</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-217913']/div/div/div/div[7]/div[2]/div[2]/div[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>eef8801b-987e-4e90-924f-063d4be283be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>et_pb_button et_pb_button_3 show-full-story et_pb_bg_layout_light</value>
+      <webElementGuid>c236bac9-8db3-49ca-8586-e04bbcce1932</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://ultimateqa.com/automation-saves-hospitality-business-66-in-test-execution-time/</value>
+      <webElementGuid>81d40e37-a2b0-4dcd-8620-58526ff07895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>See Full Story</value>
+      <webElementGuid>df6b4ec4-497b-4066-b835-e33024860196</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-217913&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;et-l et-l--post&quot;]/div[@class=&quot;et_builder_inner_content et_pb_gutters2&quot;]/div[@class=&quot;et_pb_section et_pb_section_6 et_section_regular&quot;]/div[@class=&quot;et_pb_row et_pb_row_11 et_pb_gutters1&quot;]/div[@class=&quot;et_pb_column et_pb_column_1_2 et_pb_column_23  et_pb_css_mix_blend_mode_passthrough et-last-child&quot;]/div[@class=&quot;et_pb_button_module_wrapper et_pb_button_3_wrapper  et_pb_module&quot;]/a[@class=&quot;et_pb_button et_pb_button_3 show-full-story et_pb_bg_layout_light&quot;]</value>
+      <webElementGuid>68304ceb-aba7-40c1-a06c-e6fbfa061029</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-217913']/div/div/div/div[7]/div[2]/div[2]/div[3]/a</value>
+      <webElementGuid>79c146d4-233c-435e-be6e-ee4f71d5c223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'See Full Story')]</value>
+      <webElementGuid>d3a0b6e5-d0ae-4527-a708-b7018ffb7229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://ultimateqa.com/automation-saves-hospitality-business-66-in-test-execution-time/')]</value>
+      <webElementGuid>ca32e203-ea1f-489d-afe5-a0f3ad5bad80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[3]/a</value>
+      <webElementGuid>d09dd6b6-4a73-4f32-a90c-23322d754811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://ultimateqa.com/automation-saves-hospitality-business-66-in-test-execution-time/' and (text() = 'See Full Story' or . = 'See Full Story')]</value>
+      <webElementGuid>380c6c2c-0d11-4e97-97b0-a77f0b6941d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

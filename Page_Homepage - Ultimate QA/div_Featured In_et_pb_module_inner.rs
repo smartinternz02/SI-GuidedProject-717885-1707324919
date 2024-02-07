@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Featured In_et_pb_module_inner</name>
+   <tag></tag>
+   <elementGuidId>536cd956-9cd7-4661-9438-01766244ede3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.et_pb_module.dica_divi_carouselitem.dica_divi_carouselitem_4.swiper-slide-visible > div.et_pb_module_inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-217913']/div/div/div/div[6]/div/div/div[2]/div/div/div/div/div[8]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b3a9a060-5256-4f54-8d89-0aa3c46ddf7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>et_pb_module_inner</value>
+      <webElementGuid>50caaf36-bda8-4789-a078-f16a033954c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-217913&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;et-l et-l--post&quot;]/div[@class=&quot;et_builder_inner_content et_pb_gutters2&quot;]/div[@class=&quot;et_pb_section et_pb_section_5 et_pb_with_background et_section_regular&quot;]/div[@class=&quot;et_pb_row et_pb_row_9&quot;]/div[@class=&quot;et_pb_column et_pb_column_4_4 et_pb_column_20  et_pb_css_mix_blend_mode_passthrough et-last-child&quot;]/div[@class=&quot;et_pb_module dica_divi_carousel dica_divi_carousel_0 featured-slider&quot;]/div[@class=&quot;et_pb_module_inner&quot;]/div[@class=&quot;dica-container  desktop_middle-inside tablet_middle-inside mobile_middle-inside&quot;]/div[@class=&quot;swiper-container swiper-container-initialized swiper-container-horizontal&quot;]/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;et_pb_module dica_divi_carouselitem dica_divi_carouselitem_4 swiper-slide-visible&quot;]/div[@class=&quot;et_pb_module_inner&quot;]</value>
+      <webElementGuid>97818e4a-093c-4a41-ad86-f2593eda7db2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-217913']/div/div/div/div[6]/div/div/div[2]/div/div/div/div/div[8]/div</value>
+      <webElementGuid>1f9e47ad-fa13-4191-83ce-7998d92f477c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[8]/div</value>
+      <webElementGuid>63ee9ae3-a529-413b-972a-e4e97152d9c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

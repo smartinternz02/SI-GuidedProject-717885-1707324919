@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Featured In</name>
+   <tag></tag>
+   <elementGuidId>58634e5b-ebb6-4d7c-87e0-b414eca8deb5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.et_pb_module.et_pb_heading.et_pb_heading_8.et_pb_bg_layout_ > div.et_pb_heading_container > h2.et_pb_module_heading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-217913']/div/div/div/div[6]/div/div/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>df5a7bc1-7e5d-42b1-bc68-a8d139a9c22b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>et_pb_module_heading</value>
+      <webElementGuid>1dbc810d-9b02-4f29-9799-14b6d0e4cede</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Featured In</value>
+      <webElementGuid>3e9a5d10-b0c5-4f9a-8e09-ec53644e3cd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-217913&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;et-l et-l--post&quot;]/div[@class=&quot;et_builder_inner_content et_pb_gutters2&quot;]/div[@class=&quot;et_pb_section et_pb_section_5 et_pb_with_background et_section_regular&quot;]/div[@class=&quot;et_pb_row et_pb_row_9&quot;]/div[@class=&quot;et_pb_column et_pb_column_4_4 et_pb_column_20  et_pb_css_mix_blend_mode_passthrough et-last-child&quot;]/div[@class=&quot;et_pb_module et_pb_heading et_pb_heading_8 et_pb_bg_layout_&quot;]/div[@class=&quot;et_pb_heading_container&quot;]/h2[@class=&quot;et_pb_module_heading&quot;]</value>
+      <webElementGuid>5765dbfa-36c8-4a7a-95b1-d9f2bde7d2fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-217913']/div/div/div/div[6]/div/div/div/div/h2</value>
+      <webElementGuid>31d9830f-0316-440f-b5cc-cf077c0bbaf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/h2</value>
+      <webElementGuid>b60cb2f1-734b-42b9-b677-232a9f52a03b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Featured In' or . = 'Featured In')]</value>
+      <webElementGuid>205405ed-c6d0-41ea-81eb-4f3be9b7ebbb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

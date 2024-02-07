@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_fa fa-chevron-up fa-fw fa-1x</name>
+   <tag></tag>
+   <elementGuidId>01d4b8f7-5ee5-422d-9634-775d80dacce5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-chevron-up.fa-fw.fa-1x</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='to-top']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3c984df1-42a9-4c0e-90ea-7ce25a4eed69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-chevron-up fa-fw fa-1x</value>
+      <webElementGuid>98e95b93-f4e1-46f8-ba10-9e6d711147a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;to-top&quot;)/i[@class=&quot;fa fa-chevron-up fa-fw fa-1x&quot;]</value>
+      <webElementGuid>79d70480-8a7d-40df-b8be-fd22ae12c2ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='to-top']/i</value>
+      <webElementGuid>1c0a4889-f080-44e7-bf48-5f81ee590c4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/a/i</value>
+      <webElementGuid>e2ecb783-77f3-4cae-b42e-5098c5e33413</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

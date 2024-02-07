@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Our Professional Services</name>
+   <tag></tag>
+   <elementGuidId>ad3eb763-cb55-4815-a64d-ceec732c7ace</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.et_pb_module.et_pb_heading.et_pb_heading_5.et_pb_bg_layout_ > div.et_pb_heading_container > h2.et_pb_module_heading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-217913']/div/div/div/div[3]/div/div/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>3dfc28bc-fcdc-4ed5-b052-deb39d55489d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>et_pb_module_heading</value>
+      <webElementGuid>7a2c9e6a-fa82-482f-8ff1-3e46f5562f0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Our Professional Services</value>
+      <webElementGuid>475f79a6-78a0-40e6-8ffd-639878f73606</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-217913&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;et-l et-l--post&quot;]/div[@class=&quot;et_builder_inner_content et_pb_gutters2&quot;]/div[@class=&quot;et_pb_section et_pb_section_2 et_section_regular&quot;]/div[@class=&quot;et_pb_row et_pb_row_3&quot;]/div[@class=&quot;et_pb_column et_pb_column_4_4 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child&quot;]/div[@class=&quot;et_pb_module et_pb_heading et_pb_heading_5 et_pb_bg_layout_&quot;]/div[@class=&quot;et_pb_heading_container&quot;]/h2[@class=&quot;et_pb_module_heading&quot;]</value>
+      <webElementGuid>97daebfd-5dc1-4b5d-92c1-5bba158366a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-217913']/div/div/div/div[3]/div/div/div/div/h2</value>
+      <webElementGuid>fff8de8c-08a6-4e79-b070-e337a0993406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/h2</value>
+      <webElementGuid>d17bf4b5-73a4-471c-991e-601a9cda6b08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Our Professional Services' or . = 'Our Professional Services')]</value>
+      <webElementGuid>2f77d6e8-37c2-4131-8678-3b521cdf8c2c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_66 FASTER FEEDBACK LOOP</name>
+   <tag></tag>
+   <elementGuidId>05cd6316-71ad-489b-ae46-ab6c837ac525</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.et_pb_module_heading</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-217913']/div/div/div/div[7]/div[2]/div[2]/div/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>28f3d3d9-9dab-4ec0-85a5-37c58d2df205</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>et_pb_module_heading</value>
+      <webElementGuid>58fdadb0-fbc7-4461-b3da-c6e7604a9187</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>66% FASTER FEEDBACK LOOP</value>
+      <webElementGuid>32e608b0-fc0a-4fdf-b258-61c8e2d5e144</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-217913&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;et-l et-l--post&quot;]/div[@class=&quot;et_builder_inner_content et_pb_gutters2&quot;]/div[@class=&quot;et_pb_section et_pb_section_6 et_section_regular&quot;]/div[@class=&quot;et_pb_row et_pb_row_11 et_pb_gutters1&quot;]/div[@class=&quot;et_pb_column et_pb_column_1_2 et_pb_column_23  et_pb_css_mix_blend_mode_passthrough et-last-child&quot;]/div[@class=&quot;et_pb_module et_pb_heading et_pb_heading_10 et_pb_bg_layout_&quot;]/div[@class=&quot;et_pb_heading_container&quot;]/h3[@class=&quot;et_pb_module_heading&quot;]</value>
+      <webElementGuid>fd417489-34fc-4ec8-a77f-05e19805254e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-217913']/div/div/div/div[7]/div[2]/div[2]/div/div/h3</value>
+      <webElementGuid>2cf593fa-a6b1-4cca-ac7f-84b674750126</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>1c8780a6-7a38-4d17-b8e5-ce4e57091ac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = '66% FASTER FEEDBACK LOOP' or . = '66% FASTER FEEDBACK LOOP')]</value>
+      <webElementGuid>969f0a4e-bd40-467b-ae41-5c69332a9586</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
